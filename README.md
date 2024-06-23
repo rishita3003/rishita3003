@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Rishita <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronics+and+Communications+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);6+Kyu(green)+on+AtCoder;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+ Science+and+Artificial+Intelligence+Student;Competitive+Programmer;Specialist+on+Codeforces;Division+2+on+CodeChef+(4+Stars);6+Kyu(green)+on+AtCoder;Always+learning+new+things">
   </a>
 </p>
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=jazzsterq&label=Profile%20views&color=0047AB&style=plastic?" alt="jazzsterq" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=rishita3003&label=Profile%20views&color=0047AB&style=plastic?" alt="rishita3003" height=25px, width=160px/> 
 <p align="center"> 
 	
 </p>
@@ -20,25 +20,25 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am currently in my pre-final year, studying [Electronics and Communications Engineering](https://iitg.ac.in/eee/) at the [Indian Institute of Technology Guwahati](https://iitg.ac.in/), with a minor in Computer Science and Engineering.
+- :school: I am currently in my pre-final year, studying [Data Science and Artificial intelligence](https://iitg.ac.in/eee/) at the [Indian Institute of Technology Guwahati](https://iitg.ac.in/), with a minor in Computer Science and Engineering.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
-- :student: I’m currently studying computer science and electronics engineering.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `GFG`, `Leetcode`.
+- :student: I’m currently studying computer science and artificial intelligence.
 - :nerd_face: Always `learning new things`.
-<!-- - :boom: You can visit [my website](https://jazzsterq.github.io/). -->
+<!-- - :boom: You can visit [my website](https://rishita3003.github.io/). -->
 <br>
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/jazzsterq"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+  <a href="https://codeforces.com/profile/athena26"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	&emsp;
-	<a href="https://leetcode.com/jazzsterq/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://leetcode.com/sierra2604/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	&emsp;
 	<a href="https://atcoder.jp/users/jazzsterq"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	&emsp;
-	<a href="https://www.codechef.com/users/jazzsterq"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+	<a href="https://www.geeksforgeeks.org/user/rishitaaga46gp/"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="GFG"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -47,7 +47,7 @@
 	&emsp;
 	<a href="https://github.com/jazzsterq"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/saundaryakeshari/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/rishita-agarwal-001ab725b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -71,7 +71,7 @@
   </a>
 </p>
 
-<!-- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif" width="50px"> </picture> Data Analysis & Machine learning
+ ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif" width="50px"> </picture> Data Analysis & Machine learning
 
 <p align="center">
   &emsp;
@@ -87,12 +87,12 @@
   &emsp;
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=black"></a>
  &emsp;
-<a href="#"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-AA4A44?style=plastic&logo=xgboost&logoColor=black"></a>
+<!-- <a href="#"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-AA4A44?style=plastic&logo=xgboost&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=black"></a>
-
+ -->
 </p>
--->
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
@@ -109,6 +109,7 @@
      <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
    </a>
   &emsp;
+   <!-- Node.js and react.js and MYSQL --!>
   
 </p>
 
@@ -133,11 +134,11 @@
   &emsp;
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
-<!-- &emsp;
-  <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=black"></a>
+<!--     <a href="#"><img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
+<!-- &emsp; -->
+<!--   <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=black"></a>
 &emsp;
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a> -->
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a> --> 
 </p> 
 
 
