@@ -43,9 +43,9 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:sk.jazzsterq@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:rishitaagarwal2604@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
-	<a href="https://github.com/jazzsterq"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/rishita3003"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	&emsp;
 	<a href="https://www.linkedin.com/in/rishita-agarwal-001ab725b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -109,8 +109,15 @@
      <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
    </a>
   &emsp;
-   <!-- Node.js and react.js and MYSQL --!>
-  
+	 <a href="https://react.dev/" target="_blank"> 
+     <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
+   </a>
+   &emsp;
+    <a href="https://nodejs.org/en" target="_blank"> 
+     <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
+   </a>
+   &emsp;
+     
 </p>
 
 
@@ -164,15 +171,15 @@
 
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/GurobiPy-blue.svg?logo=gurobi&logoColor=white"></a>
+<!--     <a href="#"><img src="https://img.shields.io/badge/GurobiPy-blue.svg?logo=gurobi&logoColor=white"></a>
 &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Qiskit-purple.svg?logo=qiskit"></a>
 &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Dwave-Systems-grey.svg?logo=dwavesystems&logoColor=white"></a>
-  &emsp;
+  &emsp; -->
     <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Chainlit-000000?style=plastic&logo=chainlit&logoColor=white"></a>
+<!--   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Chainlit-000000?style=plastic&logo=chainlit&logoColor=white"></a> -->
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
@@ -183,9 +190,9 @@
   &emsp;
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0"></a>
+<!--     <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0"></a>
 	 &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-blue.svg?logo=kali-linux&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-blue.svg?logo=kali-linux&logoColor=white"></a> -->
 	
 </p>
 
