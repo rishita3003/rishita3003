@@ -159,10 +159,7 @@
   &emsp;
     <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "GFG" src="https://img.shields.io/badge/gfg-%235B4638.svg?style=plastic&logo=gfg&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/atcoder-%235B4638.svg?style=plastic&logo=atcoder&logoColor=white" /></a>
-    
+    <a href="#"><img alt = "GFG" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white" /></a>
  
 </p>
 
