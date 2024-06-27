@@ -110,11 +110,11 @@
    </a>
   &emsp;
 	 <a href="https://react.dev/" target="_blank"> 
-     <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
+     <img alt="React.js" src="https://img.shields.io/badge/-React-FF4B4B?style=flat&logo=react&logoColor=black">
    </a>
    &emsp;
     <a href="https://nodejs.org/en" target="_blank"> 
-     <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
+     <img alt="Node.js" src="https://img.shields.io/badge/-Node-FF4B4B?style=flat&logo=node&logoColor=black">
    </a>
    &emsp;
      
@@ -160,7 +160,7 @@
   &emsp;
     <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="#"><img alt = "GFG" src="https://img.shields.io/badge/gfg-%235B4638.svg?style=plastic&logo=gfg&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/atcoder-%235B4638.svg?style=plastic&logo=atcoder&logoColor=white" /></a>
     
@@ -205,29 +205,29 @@
   <table style="width: 80%; margin: 0 auto;">
     <tr>
       <td style="width: 50%;">
-        <a href="https://github.com/aryanlath/Passenger-Recovery-Optimization" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
-          <p align="center"><b>Passenger Recovery Optimization</b></p>
+        <a href="https://github.com/rishita3003/Examination-Monitoring-System" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Examination Monitoring System" style="width: 100%; height: auto;">
+          <p align="center"><b>Examination Monitoring System</b></p>
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/sarthakkapoor44/DBMS-with-C" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; height: auto;">
-          <p align="center"><b>DBMS Using C</b></p>
+        <a href="https://github.com/rishita3003/PathFinder-AI-Enhanced-Resumes" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="Pathfinder AI Enhanced Resumes" style="width: 100%; height: auto;">
+          <p align="center"><b>Pathfinder - AI Enhanced Resumes</b></p>
         </a>
       </td>
     </tr>
     <tr>
       <td style="width: 50%;">
-        <a href="https://github.com/himanshu-skid19/google-vertex-ai-hackathon" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
-          <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
+        <a href="https://github.com/rishita3003/INTER-IIT-TECH-CAMP-Project" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="Pair Trading Strategy" style="width: 100%; height: auto;">
+          <p align="center"><b>Pair Trading Strategy</b></p>
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/harshit089/Dark-Web-Scraper" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
-          <p align="center"><b>Dark Web Scraper</b></p>
+        <a href="https://github.com/rishita3003/Employee-Management-System" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Employee Management System" style="width: 100%; height: auto;">
+          <p align="center"><b>Employee Management System</b></p>
         </a>
       </td>
     </tr>
@@ -244,7 +244,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazzsterq&theme=tokyonight_duo" alt="jazzsterq" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishita3003&theme=tokyonight_duo" alt="rishita3003" /></p>
 
 </details>
   
@@ -254,8 +254,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="jazzsterq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jazzsterq&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzsterq&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="jazzsterq" height="230px"/>
+	    <img alt="Rishita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishita3003&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishita3003&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="rishita3003" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -266,7 +266,7 @@
 
 ----
 	
-[![An image of @jazzsterq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jazzsterq)](https://holopin.io/@jazzsterq)
+[![An image of @jazzsterq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishita3003)](https://holopin.io/@rishita3003)
  
 </details>
 
@@ -274,8 +274,8 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jazzsterq&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishita3003&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
-[![@jazzsterq's Holopin board](https://holopin.io/api/user/board?user=jazzsterq)](https://www.holopin.io/@jazzsterq#)
+[![@Rishita's Holopin board](https://holopin.io/api/user/board?user=rishita3003)](https://www.holopin.io/@rishita3003#)
 	
 </details>
