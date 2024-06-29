@@ -111,7 +111,7 @@
    </a>
    &emsp;
     <a href="https://nodejs.org/en" target="_blank"> 
-     <img alt="Node.js" src="https://img.shields.io/badge/-Node-FF4B4B?style=plastic&logo=node&logoColor=green">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node%20-%231572B6.svg?style=plastic&logo=node&logoColor=white">
    </a>
    &emsp;
      
