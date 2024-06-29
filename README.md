@@ -200,13 +200,13 @@
     <tr>
       <td style="width: 50%;">
         <a href="https://github.com/rishita3003/Examination-Monitoring-System" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Examination Monitoring System" style="width: 100%; height: auto;">
+          <img src="https://github.com/rishita3003/rishita3003/blob/main/assets/examination%20monitoring%20system.jpg" alt="Examination Monitoring System" style="width: 100%; height: auto;">
           <p align="center"><b>Examination Monitoring System</b></p>
         </a>
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/rishita3003/PathFinder-AI-Enhanced-Resumes" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="Pathfinder AI Enhanced Resumes" style="width: 100%; height: auto;">
+          <img src="https://github.com/rishita3003/rishita3003/blob/main/assets/resume%20generator" alt="Pathfinder AI Enhanced Resumes" style="width: 100%; height: 100%;">
           <p align="center"><b>Pathfinder - AI Enhanced Resumes</b></p>
         </a>
       </td>
@@ -214,7 +214,7 @@
     <tr>
       <td style="width: 50%;">
         <a href="https://github.com/rishita3003/INTER-IIT-TECH-CAMP-Project" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="Pair Trading Strategy" style="width: 100%; height: auto;">
+          <img src="https://github.com/rishita3003/rishita3003/blob/main/assets/pairs%20trading%20img.webp" alt="Pair Trading Strategy" style="width: 100%; height: 100%;">
           <p align="center"><b>Pair Trading Strategy</b></p>
         </a>
       </td>
