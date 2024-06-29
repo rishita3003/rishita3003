@@ -36,9 +36,7 @@
 	&emsp;
 	<a href="https://leetcode.com/sierra2604/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	&emsp;
-	<a href="https://atcoder.jp/users/jazzsterq"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	&emsp;
-	<a href="https://www.geeksforgeeks.org/user/rishitaaga46gp/"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="GFG"/></a>
+	<a href="https://www.geeksforgeeks.org/user/rishitaaga46gp/"><img src="https://github.com/rishita3003/rishita3003/blob/main/gfg.jpeg" alt="GFG" width = 60px/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
