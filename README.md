@@ -220,7 +220,7 @@
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/rishita3003/Employee-Management-System" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/rishita3003/rishita3003/blob/main/assets/employee%20management.webp" alt="Employee Management System" style="width: 100%; height: auto;">
+          <img src="https://github.com/rishita3003/rishita3003/blob/main/assets/employree.jpg" alt="Employee Management System" style="width: 100%; height: auto;">
           <p align="center"><b>Employee Management System</b></p>
         </a>
       </td>
